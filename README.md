@@ -1,4 +1,8 @@
-Hi, I'm Jan Atkinson O. Bolando!<br>Graphic Designer | UI/UX Enthusiast | Computer Science Student<br><br>**About Me:**<br>CS Student @ Mindanao State University - Iligan Institute of Technology<br>Founder of Kinote – My graphic design brand<br>Web & UI/UX Design Enthusiast<br>Currently Building: MSU-IIT UI Overhaul<br>Exploring: Frontend development & design system
+# Hi, I'm Jan Atkinson O. Bolando!
+<br>Graphic Designer | UI/UX Enthusiast | Computer Science Student<br><br>
+
+# About Me:
+<br>CS Student @ Mindanao State University - Iligan Institute of Technology<br>Founder of Kinote – My graphic design brand<br>Web & UI/UX Design Enthusiast<br>Currently Building: MSU-IIT UI Overhaul<br>Exploring: Frontend development & design system
 
 
 # Tech Stack:
@@ -8,10 +12,8 @@ Hi, I'm Jan Atkinson O. Bolando!<br>Graphic Designer | UI/UX Enthusiast | Comput
 ![](https://nirzak-streak-stats.vercel.app/?user=BolandoKen&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BolandoKen&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BolandoKen&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BolandoKen&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
