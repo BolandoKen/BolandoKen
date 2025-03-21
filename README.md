@@ -1,8 +1,8 @@
 # Hi, I'm Jan Atkinson O. Bolando!
-<br>Graphic Designer | UI/UX Enthusiast | Computer Science Student<br><br>
+Graphic Designer | UI/UX Enthusiast | Computer Science Student<br><br>
 
 # About Me:
-<br>CS Student @ Mindanao State University - Iligan Institute of Technology<br>Founder of Kinote – My graphic design brand<br>Web & UI/UX Design Enthusiast<br>Currently Building: MSU-IIT UI Overhaul<br>Exploring: Frontend development & design system
+CS Student @ Mindanao State University - Iligan Institute of Technology<br>Founder of Kinote – My graphic design brand<br>Web & UI/UX Design Enthusiast<br>Currently Building: MSU-IIT UI Overhaul<br>Exploring: Frontend development & design system
 
 
 # Tech Stack:
