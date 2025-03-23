@@ -21,9 +21,11 @@ CS Student @ Mindanao State University - Iligan Institute of Technology<br>Found
     <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BolandoKen&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
   </div>
 </div>
-
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BolandoKen&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=BolandoKen&icon=0&color=1)](https://visitcount.itsvg.in)
+<div align="center">
+  <h3>Top Contributed Repo</h3>
+  <img src="https://github-contributor-stats.vercel.app/api?username=BolandoKen&limit=5&theme=github_dark&combine_all_yearly_contributions=true"/>
+</div>
+<a href="https://github.com/BolandoKen/BolandoKen/blob/main/CodingPixel.gif">
+  <img src="https://github.com/BolandoKen/BolandoKen/blob/main/CodingPixel.gif" alt="Coding Girl gif" style="width:auto; height:auto"/>
+</a>
+<hr>
