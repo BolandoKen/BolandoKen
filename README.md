@@ -14,11 +14,11 @@ CS Student @ Mindanao State University - Iligan Institute of Technology<br>Found
 # GitHub Stats:
 <div align="center">
   <div style="display: flex; flex-direction: row; gap: 10px; justify-content: center; width: 100%;">
-    <img width="380" src="https://github-readme-stats.vercel.app/api?username=BolandoKen&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10&hide_border=true"/>
-    <img width="400" src="https://nirzak-streak-stats.vercel.app/?user=BolandoKen&theme=dark&hide_border=true" />
+    <img width="380" src="https://github-readme-stats.vercel.app/api?username=BolandoKen&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false"/>
+    <img width="400" src="https://nirzak-streak-stats.vercel.app/?user=BolandoKen&theme=github_dark&hide_border=true" />
   </div>
   <div style="margin-top: 20px; display: flex; justify-content: center; width: 100%;">
-    <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BolandoKen&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+    <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BolandoKen&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
   </div>
 </div>
 
