@@ -30,4 +30,5 @@ CS Student @ Mindanao State University - Iligan Institute of Technology<br>Found
     <img src="https://github.com/BolandoKen/BolandoKen/blob/main/CodingPixel.gif" alt="Coding Girl gif" style="width:100%; max-width:2400px; height:auto; display:block; margin:0 auto;"/>
   </a>
 </div>
-<hr>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
