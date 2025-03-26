@@ -16,14 +16,12 @@ CS Student @ Mindanao State University - Iligan Institute of Technology<br>Found
     <img width="380" src="https://github-readme-stats.vercel.app/api?username=BolandoKen&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false"/>
     <img width="400" src="https://nirzak-streak-stats.vercel.app/?user=BolandoKen&theme=github_dark&hide_border=true" />
   </div>
-  <div style="margin-top: 20px; display: flex; justify-content: center; width: 100%;">
-    <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BolandoKen&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+<div style="display: flex; flex-direction: row; gap: 10px; justify-content: center; width: 100%;">
+   <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BolandoKen&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+  <img width="380" src="https://github-contributor-stats.vercel.app/api?username=BolandoKen&limit=5&theme=github_dark&combine_all_yearly_contributions=true"/>
   </div>
 </div>
-<div align="center">
-  <h3>Top Contributed Repo</h3>
-  <img src="https://github-contributor-stats.vercel.app/api?username=BolandoKen&limit=5&theme=github_dark&combine_all_yearly_contributions=true"/>
-</div>
+
 <br>
 <!--
 <div align="center" style="width:100%; margin-top:20px;">
