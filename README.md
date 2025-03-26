@@ -25,10 +25,11 @@ CS Student @ Mindanao State University - Iligan Institute of Technology<br>Found
   <img src="https://github-contributor-stats.vercel.app/api?username=BolandoKen&limit=5&theme=github_dark&combine_all_yearly_contributions=true"/>
 </div>
 <br>
+<!--
 <div align="center" style="width:100%; margin-top:20px;">
   <a href="https://github.com/BolandoKen/BolandoKen/blob/main/CodingPixel.gif">
     <img src="https://github.com/BolandoKen/BolandoKen/blob/main/CodingPixel.gif" alt="Coding Girl gif" style="width:100%; max-width:2400px; height:auto; display:block; margin:0 auto;"/>
   </a>
 </div>
-
+-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
