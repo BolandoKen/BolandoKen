@@ -2,7 +2,7 @@
   <img src="https://github.com/BolandoKen/BolandoKen/blob/main/Pixel.gif" alt="Blade Runner gif" style="width:auto; height:auto"/>
 </a>
 
-# Hi, I'm Jan Atkinson O. Bolando!
+# Hi, I'm Kin!
 Graphic Designer | UI/UX Enthusiast | Computer Science Student<br><br>
 
 # About Me:
