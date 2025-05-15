@@ -3,7 +3,7 @@
 </a>
 
 # Hi, I'm Kin!
-Graphic Designer | UI/UX Enthusiast | Computer Science Student<br><br>
+UI/UX Enthusiast | Computer Science Student<br><br>
 
 # About Me:
 CS Student @ Mindanao State University - Iligan Institute of Technology<br>Founder of Kinote – My graphic design brand<br>Web & UI/UX Design Enthusiast<br>Currently Building: Orderoo Digital Ordering App
