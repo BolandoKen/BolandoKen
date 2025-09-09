@@ -6,7 +6,7 @@
 UI/UX Enthusiast | Computer Science Student<br><br>
 
 # About Me:
-CS Student at Mindanao State University - Iligan Institute of Technology<br>Founder of Kinote – My graphic design brand<br>Web & UI/UX Design Enthusiast<br>Currently Building: StudentVault V2 Student Manager App
+CS Student at Mindanao State University - Iligan Institute of Technology<br>Founder of Kinote – My graphic design brand<br>Web & UI/UX Design Enthusiast<br>Currently Building: Online Document Request and Student Information System Web App
 <br>Exploring: Frontend development & design system
 
 # Tech Stack:
