@@ -31,4 +31,3 @@ CS Student at Mindanao State University - Iligan Institute of Technology<br>Foun
   </a>
 </div>
 -->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
